@@ -1200,7 +1200,7 @@ body {
    */
 
   .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgb(7, 7, 7)), url("../Images/hero-main.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgb(7, 7, 7)), url("https://drive.google.com/file/d/18Me7pFVS5uFqmhnqk4THyF8AdcYAytPU/view?usp=drive_link");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
