@@ -1200,7 +1200,7 @@ body {
    */
 
   .hero {
-    background-image:url("https://github.com/mandeep888/Thrive-Together-NGO/blob/master/assets/images/hero-main.jpg?raw=true");
+    background-image:linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0)),url("https://github.com/mandeep888/Thrive-Together-NGO/blob/master/assets/images/hero-main.jpg?raw=true");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
